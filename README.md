@@ -1,9 +1,6 @@
 Coding Challenge Guidelines
 ===========================
 
-If you don't have code to share, you can work on our coding challenge described
-below. 
-
 Please organize, design, test, document and deploy your code as if it were
 going into production, then send us a link to the hosted repository (e.g.
 Github, Bitbucket...).
@@ -14,9 +11,8 @@ Functional spec
 Prototype **one** of the following projects:
 
 1. Departure Times
-2. Tic Tac To
-3. Email Service
-4. Food Trucks
+1. Email Service
+1. Food Trucks
 
 The UX/UI is totally up to you. If you like, get creative and add additional
 features a user might find useful!
@@ -33,9 +29,6 @@ Here are some examples of freely available data:
   Francisco)
 * [Transport for London Unified API](https://api.tfl.gov.uk/) (London)
 
-### tic tac toe
-
-Implement the game of tic tac toe on a 3x3 board.
 
 ### Email Service
 
